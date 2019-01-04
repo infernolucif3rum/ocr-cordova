@@ -1,0 +1,63 @@
+{
+  "_from": "cordova-plugin-tesseract-ocr",
+  "_id": "cordova-plugin-tesseract-ocr@0.0.3",
+  "_inBundle": false,
+  "_integrity": "sha1-TRUVjNh6IVuirP/sLWcXGaA6uUs=",
+  "_location": "/cordova-plugin-tesseract-ocr",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-tesseract-ocr",
+    "name": "cordova-plugin-tesseract-ocr",
+    "escapedName": "cordova-plugin-tesseract-ocr",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-tesseract-ocr/-/cordova-plugin-tesseract-ocr-0.0.3.tgz",
+  "_shasum": "4d15158cd87a215ba2acffec2d671719a03ab94b",
+  "_spec": "cordova-plugin-tesseract-ocr",
+  "_where": "D:\\APP\\ocr2",
+  "author": {
+    "name": "jcesarmobile"
+  },
+  "bugs": {
+    "url": "https://github.com/jcesarmobile/cordova-plugin-tesseract-ocr/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-tesseract-ocr",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "\n\t\tThis plugin allows to recognise text from images\n\t",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=6.4.0"
+    },
+    {
+      "name": "cordova-ios",
+      "version": ">=4.3.0"
+    }
+  ],
+  "homepage": "https://github.com/jcesarmobile/cordova-plugin-tesseract-ocr#readme",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-tesseract-ocr",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcesarmobile/cordova-plugin-tesseract-ocr.git"
+  },
+  "version": "0.0.3"
+}

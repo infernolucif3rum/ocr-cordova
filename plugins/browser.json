@@ -1,0 +1,43 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.mailocr.internship"
+    },
+    "cordova-plugin-tesseract": {
+      "PACKAGE_NAME": "com.mailocr.internship"
+    },
+    "cordova-plugin-mobile-ocr": {
+      "PACKAGE_NAME": "com.mailocr.internship"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.mailocr.internship"
+    },
+    "cordova-plugin-tesseract-ocr": {
+      "PACKAGE_NAME": "com.mailocr.internship"
+    },
+    "cordova-plugin-file-selector": {
+      "PACKAGE_NAME": "com.mailocr.internship"
+    },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "com.mailocr.internship"
+    },
+    "cordova-plugin-base64-joewsh": {
+      "PACKAGE_NAME": "com.mailocr.internship"
+    },
+    "cordova-plugin-email-composer": {
+      "PACKAGE_NAME": "com.mailocr.internship"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.mailocr.internship"
+    }
+  }
+}
